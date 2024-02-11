@@ -29,4 +29,4 @@ def portScan(tgtHost, tgtPorts):
         conScan(tgtHost, int(tgtPort))
 
 if __name__ == '__main__':
-    portScan('cnn.com', [80, 28])
+    portScan('google.com', [80, 28])
